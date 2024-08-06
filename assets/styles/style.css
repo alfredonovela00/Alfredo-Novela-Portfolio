@@ -195,13 +195,16 @@ header {
 
 #skills {
     font-family: 'Poppins', sans-serif;
+    background-color: #ccc;
+    height: 100vh;
 }
 
 
 #skills h1 {
     text-align: center;
-    padding: 20px;
+    padding: 30px;
     text-transform: uppercase;
+   
 }
 
 
@@ -210,7 +213,7 @@ header {
     gap: 70px;
     justify-content: center;
     color: black;
-    background-color: #ccc;
+  
 }
 
 .skills-column {
