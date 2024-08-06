@@ -195,8 +195,9 @@ header {
 
 #skills {
     font-family: 'Poppins', sans-serif;
-    background-color: #ccc;
+    background: linear-gradient(50deg, #0A474B, #FFFFFF);
     height: 100vh;
+
 }
 
 
@@ -213,6 +214,7 @@ header {
     gap: 70px;
     justify-content: center;
     color: black;
+    font-weight: bold;
   
 }
 
@@ -311,6 +313,7 @@ header {
 
     #skills {
         margin-top: 700px;
+        height: 170vh;
     }
 
     .skills-content {
